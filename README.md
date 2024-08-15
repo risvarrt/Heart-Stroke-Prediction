@@ -1,6 +1,8 @@
 
 # Heart Stroke Prediction Project
 
+[![Watch the Application Demo](https://img.youtube.com/vi/cGTrlFlb-o8/maxresdefault.jpg)](https://youtu.be/cGTrlFlb-o8)
+
 ## Overview
 
 The Heart Stroke Prediction project focuses on creating a machine learning model to predict the likelihood of heart strokes based on various health parameters. This model is designed to assist healthcare professionals in early diagnosis and prevention, potentially saving lives through timely intervention.
